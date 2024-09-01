@@ -1,0 +1,41 @@
+﻿id,sentence,voice
+1,The chef prepares the meal.,Active
+2,The teacher explains the lesson clearly.,Active
+3,The gardener waters the plants every morning.,Active
+4,The kids play soccer in the park.,Active
+5,The author wrote a thrilling novel.,Active
+6,The scientist conducts experiments in the lab.,Active
+7,The company launched a new product.,Active
+8,The artist paints a beautiful portrait.,Active
+9,The musician composes a melody.,Active
+10,The photographer takes stunning pictures.,Active
+11,The director shoots the film in various locations.,Active
+12,The journalist reports the news accurately.,Active
+13,The designer creates a modern dress.,Active
+14,The engineer designs a new bridge.,Active
+15,The programmer codes the application.,Active
+16,The architect draws the plans for the house.,Active
+17,The manager organizes the work schedule.,Active
+18,The waiter serves the customers efficiently.,Active
+19,The driver transports the goods safely.,Active
+20,The student submits the assignment on time.,Active
+21,The meal is prepared by the chef.,Passive
+22,The lesson is clearly explained by the teacher.,Passive
+23,The plants are watered every morning by the gardener.,Passive
+24,Soccer is played in the park by the kids.,Passive
+25,A thrilling novel was written by the author.,Passive
+26,Experiments are conducted in the lab by the scientist.,Passive
+27,A new product was launched by the company.,Passive
+28,A beautiful portrait is painted by the artist.,Passive
+29,A melody is composed by the musician.,Passive
+30,Stunning pictures are taken by the photographer.,Passive
+31,The film is shot in various locations by the director.,Passive
+32,The news is accurately reported by the journalist.,Passive
+33,A modern dress is created by the designer.,Passive
+34,A new bridge is designed by the engineer.,Passive
+35,The application is coded by the programmer.,Passive
+36,The plans for the house are drawn by the architect.,Passive
+37,The work schedule is organized by the manager.,Passive
+38,The customers are served efficiently by the waiter.,Passive
+39,The goods are transported safely by the driver.,Passive
+40,The assignment is submitted on time by the student.,Passive
